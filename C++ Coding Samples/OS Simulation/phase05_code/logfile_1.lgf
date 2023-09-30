@@ -1,0 +1,76 @@
+2 - Simulator program starting
+2 - OS: preparing process 1
+2 - OS: starting process 1
+2 - Process 1: start processing action
+2 - Process 1: end processing action
+7 - OS: preparing process 2
+7 - OS: starting process 2
+7 - Process 2: start hard drive output on HDD 0
+58 - Process 2: end hard drive output
+58 - Process 2: interrupt processing action
+58 - OS: preparing process 3
+58 - OS: starting process 3
+58 - Process 3: start processing action
+58 - Process 3: end processing action
+73 - Process 3: allocating memory
+103 - Process 3: memory allocated at 0x0
+103 - Process 3: interrupt processing action
+103 - OS: preparing process 1
+103 - OS: starting process 1
+103 - OS: preparing process 2
+103 - OS: starting process 2
+103 - Process 2: start hard drive output on HDD 1
+153 - Process 2: end hard drive output
+153 - Process 2: interrupt processing action
+153 - OS: preparing process 3
+153 - OS: starting process 3
+153 - Process 3: start keyboard input
+203 - Process 3: end keyboard input
+203 - Process 3: interrupt processing action
+203 - OS: preparing process 1
+203 - OS: starting process 1
+204 - OS: preparing process 2
+204 - OS: starting process 2
+204 - Process 2: start hard drive output on HDD 0
+254 - Process 2: end hard drive output
+254 - Process 2: interrupt processing action
+254 - OS: preparing process 3
+254 - OS: starting process 3
+254 - Process 3: start keyboard input
+304 - Process 3: end keyboard input
+304 - Process 3: interrupt processing action
+304 - OS: preparing process 1
+304 - OS: starting process 1
+304 - OS: preparing process 2
+304 - OS: starting process 2
+304 - Process 2: start hard drive output on HDD 1
+354 - Process 2: end hard drive output
+354 - Process 2: interrupt processing action
+354 - OS: preparing process 3
+354 - OS: starting process 3
+354 - Process 3: start keyboard input
+405 - Process 3: end keyboard input
+405 - Process 3: interrupt processing action
+405 - OS: preparing process 1
+405 - OS: starting process 1
+405 - OS: preparing process 2
+405 - OS: starting process 2
+405 - Process 2: start hard drive output on HDD 0
+455 - Process 2: end hard drive output
+455 - Process 2: interrupt processing action
+455 - OS: preparing process 3
+455 - OS: starting process 3
+455 - Process 3: start keyboard input
+485 - Process 3: end keyboard input
+485 - Process 3: interrupt processing action
+485 - OS: preparing process 1
+485 - OS: starting process 1
+485 - OS: preparing process 2
+485 - OS: starting process 2
+485 - Process 2: start hard drive output on HDD 1
+535 - Process 2: end hard drive output
+535 - OS: preparing process 3
+535 - OS: starting process 3
+535 - Process 3: start processing action
+535 - Process 3: end processing action
+551 - Simulator program ending
