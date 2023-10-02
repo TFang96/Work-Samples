@@ -1,0 +1,40 @@
+header {
+    border: 10px yellow solid;
+    margin: 30px;
+}
+
+header h1 {
+    color: aqua;
+}
+
+header h1:hover {
+    color: pink;
+}
+
+footer:active {
+    background-color: aqua;
+}
+
+#current-title {
+    color: blue;
+}
+
+.school-name {
+    color: blueviolet;
+}
+
+.hobby {
+    color: pink;
+}
+
+section p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+section h4 {
+    font-family: fantasy;
+}
+
+section h5 {
+    font-family: serif;
+}
