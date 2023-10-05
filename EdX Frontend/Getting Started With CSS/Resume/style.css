@@ -1,0 +1,15 @@
+#contact-info {
+    float: right;
+}
+
+#work {
+    float: left;
+}
+
+#education {
+    float: right;
+}
+
+#certification {
+    float: none;
+}
